@@ -1,4 +1,3 @@
-```js
 // Material Apocalypse
 // Sandboxels 1.15
 
@@ -111,4 +110,3 @@ elements.material_apocalypse = {
         }
     }
 };
-```
